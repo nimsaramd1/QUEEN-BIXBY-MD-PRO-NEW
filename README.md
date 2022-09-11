@@ -1,4 +1,4 @@
-# QUEEN-BIXBY-MD-PRO
+# QUEEN-SN-HACKED-BY-NIMSARA
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
@@ -19,7 +19,7 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/1a0137d2065a822e65f92.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://telegra.ph/file/3b0d8fe3324fed5c893f6.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
@@ -56,7 +56,7 @@
 
 ```
 
-https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW
+https://heroku.com/deploy?template=https://github.com/nimsaramd1/QUEEN-BIXBY-MD-PRO-NEW
 
 ``` 
 
@@ -66,7 +66,7 @@ https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY
 
 # Contact for help:
 
-   * Click [Contact](https://wa.me/94711421243) Here For Contact
+   * Click [Contact](https://wa.me/94741538531) Here For Contact
 
       </br> <p/>
 
