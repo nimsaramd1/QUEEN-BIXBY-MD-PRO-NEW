@@ -1,8 +1,8 @@
 {
-  "name": "Queen Bixby-MD Pro",
+  "name": "Queen SN HACKER BY NIMSARA",
   "description": "WhatsApp MD bot build with nodejs",
-  "repository": "https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW",
-  "logo": "https://telegra.ph/file/5fb8366c76ea6cd1177f6.jpg",
+  "repository": "https://github.com/nimsaramd1/QUEEN-BIXBY-MD-PRO-NEW",
+  "logo": "https://telegra.ph/file/3b0d8fe3324fed5c893f6.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
