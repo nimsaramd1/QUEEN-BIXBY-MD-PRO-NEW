@@ -19,15 +19,15 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94741538531']
-global.premium = ['94768753487']
-global.ownernomer = '94768753457'
+global.owner = ['94743620791']
+global.premium = ['94743620791']
+global.ownernomer = '94743620791'
 global.ownername = 'NIMSARAMD'
 global.botname = 'NIMSARA-MD USER BOT'
 global.footer = 'NIMSARAMD.'
 global.ig = 'https://github.com/nimsaramd1/QUEEN-BIXBY-MD-PRO-NEW'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/JtD5G1eVXg2HJuddsoFm9K'
+global.region = 'Sri Lanka, Anuradhapura, Nochchiyagama'
+global.sc = 'https://chat.whatsapp.com/EnxaQh2wF1K7CT2x3vc2G7'
 global.myweb = 'https://youtube.com/channel/UCb4DFq-M36JmN7Qza5d0T7w'
 global.packname = 'Queen SN MD'
 global.author = 'SN HACKED'
